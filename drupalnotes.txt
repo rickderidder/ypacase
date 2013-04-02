@@ -1,0 +1,19 @@
+== HIGH LEVEL ==
+Webform
+http://drupal.org/project/webform
+
+Form Builder (requires webform)
+http://drupal.org/project/form_builder
+http://london2011.drupal.org/conference/sessions/introduction-form-builder-new-interface-fields
+http://quicksketch.org/demos/form-builder-example
+
+== LOW LEVEL ==
+Drupal Forms API
+http://drupal.org/node/751826
+http://api.drupal.org/api/drupal/developer!topics!forms_api_reference.html/7
+
+== OUTDATED ==
+Form Manager
+http://drupal.org/project/form_manager
+Form controller
+http://drupal.org/project/form_controller
